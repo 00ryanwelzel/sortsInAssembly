@@ -2,8 +2,7 @@
 
 ## (Ryan Welzel 4/07/2025) 
 
-Implementation of three classic sorting algorithms in MIPS asm
-
+Implementation of three classic sorting algorithms in MIPS Assembly
 ---
 
 Features:
